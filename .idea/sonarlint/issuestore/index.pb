@@ -33,3 +33,13 @@ pinfrastructure/kafka/src/main/java/org/ddd/shared/infrastructure/kafka/config/K
 Yinfrastructure/kafka/src/main/java/org/ddd/shared/infrastructure/kafka/KafkaConsumer.java,4/8/48b96ef2a85248c5eac33a7de9560e068d88be48
 è
 _infrastructure/kafka/src/main/java/org/ddd/shared/infrastructure/kafka/KafkaConsumerConfig.java,7/a/7aa8181e5440396dab51790e2e4b9742cada314d
+ã
+[src/main/java/org/ddd/shared/infrastructure/kafka/config/KafkaConsumerConfigProperties.java,b/1/b1c7d5aa81628fbb551fe8bd7eea6d341a1ff420
+z
+Jsrc/main/java/org/ddd/shared/infrastructure/kafka/KafkaConsumerConfig.java,0/b/0b22b05279632220286f8a4fcccbc50b5605bcc0
+y
+Isrc/main/java/org/ddd/shared/infrastructure/kafka/config/KafkaConfig.java,a/5/a5b7761921edff1477cfbf45a7215ab482688b2a
+ã
+[src/main/java/org/ddd/shared/infrastructure/kafka/config/KafkaProducerConfigProperties.java,0/f/0fdef2a048c52a9255bd782eb93337571341bd08
+u
+Esrc/test/java/org/ddd/shared/domain/valueobject/CategoryIdMother.java,9/f/9ffe7604fc3dc0b9aebda5dc80a3ff3af06d3d23
