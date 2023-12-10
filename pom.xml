@@ -47,21 +47,6 @@
                 <artifactId>infrastructure</artifactId>
                 <version>${project.version}</version>
             </dependency>
-            <dependency>
-                <groupId>org.ddd</groupId>
-                <artifactId>kafka-config-data</artifactId>
-                <version>${project.version}</version>
-            </dependency>
-            <dependency>
-                <groupId>org.ddd</groupId>
-                <artifactId>kafka-producer</artifactId>
-                <version>${project.version}</version>
-            </dependency>
-            <dependency>
-                <groupId>org.ddd</groupId>
-                <artifactId>kafka-consumer</artifactId>
-                <version>${project.version}</version>
-            </dependency>
         </dependencies>
     </dependencyManagement>
 
