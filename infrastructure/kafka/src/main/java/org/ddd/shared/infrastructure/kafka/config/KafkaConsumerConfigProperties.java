@@ -8,8 +8,8 @@ import org.springframework.context.annotation.Configuration;
 @Configuration
 @ConfigurationProperties(prefix = "kafka-consumer-config")
 public class KafkaConsumerConfigProperties {
-    private String keyDeserializationClass;
-    private String valueDeserializationClass;
+    private String keyDeserializationClass; // Default StringDeserializer
+    private String valueDeserializationClass; // Default JsonDeserializer
     private Integer sessionTimeoutMs;
     private Integer heartbeatIntervalMs;
     private String groupId;
