@@ -43,3 +43,9 @@ Isrc/main/java/org/ddd/shared/infrastructure/kafka/config/KafkaConfig.java,a/5/
 [src/main/java/org/ddd/shared/infrastructure/kafka/config/KafkaProducerConfigProperties.java,0/f/0fdef2a048c52a9255bd782eb93337571341bd08
 u
 Esrc/test/java/org/ddd/shared/domain/valueobject/CategoryIdMother.java,9/f/9ffe7604fc3dc0b9aebda5dc80a3ff3af06d3d23
+…
+Usrc/main/java/org/ddd/shared/infrastructure/kafka/handler/GlobalExceptionHandler.java,0/5/0599e1d79204bd8ec814964a630d4b5332c831e7
+‡
+Wsrc/main/java/org/ddd/shared/infrastructure/handler/handler/GlobalExceptionHandler.java,4/2/42c953bf4d391f550d41b58d900908964e1ac1fc
+‰
+Ysrc/main/java/org/ddd/shared/infrastructure/exception/handler/GlobalExceptionHandler.java,7/5/75fd22e5178cc670e754ddf8d49ba28563b9f1f3
