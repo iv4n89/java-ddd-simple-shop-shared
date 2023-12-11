@@ -1,0 +1,5 @@
+
+í
+java:S1598"ÙThis file "GlobalExceptionHandler.java" should be located in "org/ddd/shared/infrastructure/handler/exception" directory, not in "/home/ibetanzos/dev/java/kafka/test5/products-shared/src/main/java/org/ddd/shared/infrastructure/handler/handler".(ê¨ﬂí8øû≈¿≈1
+è
+java:S6201$"rReplace this instanceof check and cast with 'instanceof ConstraintViolationException constraintviolationexception'(ÀÌ¥Ì8ΩÚï¿≈1
